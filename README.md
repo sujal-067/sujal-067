@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building real-world projects in Machine Learning and solving  DSA  problems<br><br>👯 I’m looking to collaborate on<br>Open-source projects related to AI/ML, algorithms, and system-level programming<br><br>🤝 I’m looking for help with<br>Improving my problem-solving skills and understanding deep concepts in Neural Networks & Optimization<br><br>🌱 I’m currently learning<br>Advanced Machine Learning, Backpropagation, Gradient Descent variants, and Compiler Design<br><br>💬 Ask me about<br>Data Structures & Algorithms, Neural Networks, Backpropagation, and C/C++ programming<br><br>⚡ Fun fact<br>I enjoy breaking down complex problems into simple steps and learning by solving real exam-level questions
+<br>Building real-world projects in Machine Learning and solving  DSA  problems<br><br>  <br>Open-source projects related to AI/ML, algorithms, and system-level programming<br><br> <br>Improving my problem-solving skills and understanding deep concepts in Neural Networks & Optimization<br><br> <br>Advanced Machine Learning, Backpropagation, Gradient Descent variants, and Compiler Design<br><br> <br>Data Structures & Algorithms, Neural Networks, Backpropagation, and C/C++ programming<br><br> <br>I enjoy breaking down complex problems into simple steps and learning by solving real exam-level questions
 
 
 # 💻 Tech Stack:
